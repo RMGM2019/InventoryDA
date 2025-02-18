@@ -1,0 +1,40 @@
+[{
+  "id": "id 1",
+  "name": "name 1",
+  "description": "description 1",
+  "category": "cat 1",
+  "price": 10.1,
+  "sku": "sku 1"
+},
+{
+  "id": "id 2",
+  "name": "name 2",
+  "description": "description 2",
+  "category": "cat 1",
+  "price": 20.1,
+  "sku": "sku 2"
+},
+{
+  "id": "id 3",
+  "name": "name 4",
+  "description": "description 5",
+  "category": "cat 1",
+  "price": 30.1,
+  "sku": "sku 3"
+},
+{
+  "id": "id 4",
+  "name": "name 4",
+  "description": "description 4",
+  "category": "cat 1",
+  "price": 40.1,
+  "sku": "sku 4"
+},
+{
+  "id": "id 5",
+  "name": "name 4",
+  "description": "description 4",
+  "category": "cat 1",
+  "price": 40.1,
+  "sku": "sku 4"
+}]

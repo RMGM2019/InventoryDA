@@ -1,0 +1,27 @@
+{
+  "name": "de_acero",
+  "version": "1.0.0",
+  "description": "test tecnico de acero para desarrollador full stack",
+  "main": "./server/index.js",
+  "scripts": {
+    "test": "jest --runInBand --detectOpenHandles",
+    "start": "node ./server/index.js",
+    "dev": "nodemon ./server/index.js"
+  },
+  "keywords": [],
+  "author": "Raul Armando Martinez Valdez",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0",
+    "nodemon": "^3.1.9",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "@shelf/jest-mongodb": "^4.3.2",
+    "jest": "^29.7.0",
+    "mongodb-memory-server": "^10.1.3"
+  }
+}

@@ -1,0 +1,36 @@
+[{  
+  "productId": "id 1",
+  "storeId": "store 1",
+  "quantity": 10,
+  "minStock": 1
+},
+{  
+  "productId": "id 2",
+  "storeId": "store 1",
+  "quantity": 2,
+  "minStock": 2
+},
+{
+  "productId": "id 3",
+  "storeId": "store 1",
+  "quantity": 5,
+  "minStock": 3
+},
+{
+  "productId": "id 1",
+  "storeId": "store 2",
+  "quantity": 0,
+  "minStock": 1
+},
+{
+  "productId": "id 2",
+  "storeId": "store 2",
+  "quantity": 4,
+  "minStock": 2
+},
+{
+  "productId": "id 3",
+  "storeId": "store 2",
+  "quantity": 5,
+  "minStock": 3
+}]
